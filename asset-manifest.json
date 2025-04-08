@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.95286e04.css",
+    "main.js": "/e-commerce/static/js/main.dea1799a.js",
+    "static/js/453.0973ab69.chunk.js": "/e-commerce/static/js/453.0973ab69.chunk.js",
+    "static/media/landing-page-featured-vertical.jpg": "/e-commerce/static/media/landing-page-featured-vertical.018cfc93a61b91ffb6ae.jpg",
+    "static/media/previewImgMan3.jpg": "/e-commerce/static/media/previewImgMan3.fb7adf300fbf0ca570ee.jpg",
+    "static/media/previewImgMan4.jpg": "/e-commerce/static/media/previewImgMan4.bd4f7cb492e919c288a8.jpg",
+    "static/media/previewImgAcc2.jpg": "/e-commerce/static/media/previewImgAcc2.2c3f602f8312f3a69d4b.jpg",
+    "static/media/previewImgAcc1.jpg": "/e-commerce/static/media/previewImgAcc1.70bcacb08a2db3e56eaa.jpg",
+    "static/media/previewImgAcc4.jpg": "/e-commerce/static/media/previewImgAcc4.7741a3eae4f42c0ba681.jpg",
+    "static/media/previewImgMan2.jpg": "/e-commerce/static/media/previewImgMan2.81e151b515cf419de9d4.jpg",
+    "static/media/previewImgMan1.jpg": "/e-commerce/static/media/previewImgMan1.d50fdf473ef0c7467224.jpg",
+    "static/media/landing-page.jpg": "/e-commerce/static/media/landing-page.e04aec87e62562eabc0c.jpg",
+    "static/media/previewImgWom1.jpg": "/e-commerce/static/media/previewImgWom1.313b943d345b306ae841.jpg",
+    "static/media/landing-page2.jpg": "/e-commerce/static/media/landing-page2.cbac168a67ee54e742eb.jpg",
+    "static/media/previewImgWom2.jpg": "/e-commerce/static/media/previewImgWom2.98b499fcb3ec3bc32a74.jpg",
+    "static/media/previewImgWom4.jpg": "/e-commerce/static/media/previewImgWom4.544dcded5cf48d669dc8.jpg",
+    "static/media/previewImgWom3.jpg": "/e-commerce/static/media/previewImgWom3.7dacb6e27ce2329f972a.jpg",
+    "static/media/red-sweater.jpg": "/e-commerce/static/media/red-sweater.45fc3ae4182724d10839.jpg",
+    "static/media/landing-page3.jpg": "/e-commerce/static/media/landing-page3.3862fa81aba6a172f2fd.jpg",
+    "static/media/previewImgAcc3.jpg": "/e-commerce/static/media/previewImgAcc3.a963c8ea3dcd251b3213.jpg",
+    "static/media/blue-jeans.jpg": "/e-commerce/static/media/blue-jeans.8b37ac73510112a07202.jpg",
+    "static/media/black-jeans.jpg": "/e-commerce/static/media/black-jeans.c2d207cabe09ac39b575.jpg",
+    "static/media/small-purse.jpg": "/e-commerce/static/media/small-purse.46ba2c1c1df3d96d5345.jpg",
+    "static/media/black-sweater.jpg": "/e-commerce/static/media/black-sweater.c38a578ccbed66a8460c.jpg",
+    "static/media/black-belt.jpg": "/e-commerce/static/media/black-belt.2fdbb1bd37cd7d378417.jpg",
+    "static/media/beige-tshirt.jpg": "/e-commerce/static/media/beige-tshirt.9197592d478c88ebfc87.jpg",
+    "static/media/white-jeans.jpg": "/e-commerce/static/media/white-jeans.63a47d28213f699a831e.jpg",
+    "static/media/blue-tshirt.jpg": "/e-commerce/static/media/blue-tshirt.c4a840032b39b3e639f6.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.95286e04.css.map": "/e-commerce/static/css/main.95286e04.css.map",
+    "main.dea1799a.js.map": "/e-commerce/static/js/main.dea1799a.js.map",
+    "453.0973ab69.chunk.js.map": "/e-commerce/static/js/453.0973ab69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95286e04.css",
+    "static/js/main.dea1799a.js"
+  ]
+}
